@@ -1,0 +1,11 @@
+1. get test cases
+2. run binary and linear search on it, timing it with currenttimemillis()
+3. record time and get an average, good data
+
+new plaN?
+1. make test case
+2. make variable that takes the value of the current time
+3. run linear search
+4. make another variable that takes the bal of currentitmemillis()
+5. repeat for binary search
+6. make analyziziiations and coolio
