@@ -1,2 +1,3 @@
 12/16 - N.L made the group repo, may or may not have forgot to invite his team tho
 12/16 - A.F made the serach driver thingy that tests the time needed to do binary search and linear search. 
+12/17 - R.G is MIA... :(
