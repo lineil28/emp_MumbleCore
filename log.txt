@@ -1,0 +1,1 @@
+12/16 - A.F made the serach driver thingy that tests the time needed to do binary search and linear search. 
