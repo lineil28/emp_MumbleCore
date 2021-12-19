@@ -1,0 +1,8 @@
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// APCS
+// L03: Get Empirical
+// 2021-12-19
+// time spent- 2 hours
+// DISCO- currentTimeMillis() allows us to measure the time needed to run a function, very useful. When the length of the Comparable array is 60,
+ linearsearch is almost always going to be faster(take less time). As the size increases, the time needed to complete a linSearch increases.
+// QCC- ...

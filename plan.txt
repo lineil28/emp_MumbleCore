@@ -9,3 +9,11 @@ new plaN?
 4. make another variable that takes the bal of currentitmemillis()
 5. repeat for binary search
 6. make analyziziiations and coolio
+
+even better plan!?
+1. grasp currentTimeMillis() and use it to create some sort of testing method
+2. have a Comparable array thats When the size will be determined by the input of the tester.
+3. get a number of "trials" which was the number of times <code>BinSearch</code> or <code>LinSearch</code> will search for the target, which will be a random int using <code>SIZE*Math.random()</code>.
+4. record the time needed to find the target <code>TRIALS</code> amount of times. 
+5. Do these tests for numerous sizes. 
+6. analyze.
