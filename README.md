@@ -23,7 +23,7 @@ Our plan goes as follows...
 | 60000000  | 10000         | 3      | 141976             |
 | 210000000 | 10000         | 1      | 2466126            |
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/BinSearch%20Time%20and%20LinSearch%20Time.png)
 ## Conclusions
 * As we can see from the table and bar graph above, BinSearch clearly takes less time than LinSearch. As the size increases by multiples of 10, the time needed to complete 10,000 trials of the search grows exponentially. 
 *An interesting observation is that when the size of the <code>Comparable</code> is less than 60, LinSearch typically takes less time than BinSearch.
