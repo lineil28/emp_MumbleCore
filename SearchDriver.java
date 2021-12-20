@@ -1,4 +1,4 @@
-// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev
 // APCS
 // L03: Get Empirical
 // 2021-12-20
@@ -9,7 +9,9 @@ public class SearchDriver {
     public static void testtings(int SIZE, int TRIALS){ // as size increases, the linsearch time increases exponentially.
         long start;
         long end;
-        int target = (int)(SIZE * Math.random());
+
+        int target = (SIZE - 1);
+
         Comparable[] test;
         test = new Comparable[SIZE];
         for(int i = 0; i < SIZE; i++) {
@@ -42,7 +44,7 @@ public class SearchDriver {
         testtings(600000,10000);
         testtings(6000000,10000);
         testtings(60000000,10000);
-        testtings(210000000,10000);
+        // testtings(210000000,10000);
 
         /*
         test = new Comparable[SIZE];

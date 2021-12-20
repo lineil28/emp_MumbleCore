@@ -1,4 +1,4 @@
-// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev
 // APCS
 // L03: Get Empirical/log.txt
 // 2021-12-20
@@ -6,9 +6,11 @@
 
 
 12/16 - N.L made the group repo, may or may not have forgot to invite his team tho
-12/16 - A.F made the serach driver thingy that tests the time needed to do binary search and linear search. 
+12/16 - A.F made the serach driver thingy that tests the time needed to do binary search and linear search.
 12/17 - R.G is MIA... :(
-12/18 - A.F edited SearchDriver.java 
-            -created method called testtings(int SIZE, int TRIALS) for covenience when running tests. 
+12/18 - A.F edited SearchDriver.java
+            -created method called testtings(int SIZE, int TRIALS) for covenience when running tests.
 12/19 - N.L edited the notes.txt and README.md
 12/20 - A.F edited heading for log.txt
+12/20 - N.L and A.F changed target to always be SIZE - 1 (the worse case scenario)
+        R.G still MIA... :l}
