@@ -14,7 +14,7 @@ In our tests, one of the independent variables tested was the size of the Compar
 
 ## Results
 
-| SIZE | TRIALS | BinSearch Time (milliseconds)  | LinSearch Time (milliseconds) |
+| SIZE | TRIALS | BinSearch Time (milliseconds)  | LinSearch Time (milliseconds) | 
 |-----------------|:-------------|:---------------:|---------------:|
 | 60        | 10000         | 7      | 11                 |
 | 600       | 10000         | 1      | 1                  |
@@ -29,7 +29,7 @@ In our tests, one of the independent variables tested was the size of the Compar
 ## Conclusions
 * As we can see from the table and bar graph above, BinSearch clearly takes less time than LinSearch. As the size increases by multiples of 10, the time needed to complete 10,000 trials of the search grows exponentially. 
 *An interesting observation is that when the size of the <code>Comparable</code> is less than 60, LinSearch typically takes less time than BinSearch.
-* Another observation is the times recorded for when the size was 600. In this scenario, both took 1 millisecond. The only explanation for this was that the <code>target</code> was located at the beginning of the container, meaning that LinSearch would not have to traverse through the 600 length array 10,000 times. 
+* Another observation is the times recorded for when the size was 600. In this scenario, both took 1 millisecond. The only explanation for this was that the <code>target</code> was located at the beginning of the container, meaning that LinSearch would not have to traverse through the 600 length array 10,000 times. This is a good example of an outlier.
 
 
 
