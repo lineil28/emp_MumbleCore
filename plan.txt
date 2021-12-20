@@ -1,3 +1,9 @@
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// APCS
+// L03: Get Empirical
+// 2021-12-20
+// time spent- 1 hours
+
 1. get test cases
 2. run binary and linear search on it, timing it with currenttimemillis()
 3. record time and get an average, good data
