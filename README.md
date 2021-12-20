@@ -9,6 +9,8 @@ Our plan goes as follows...
 5. Do these tests for numerous sizes. 
 6. analyze.
 
+In our tests, one of the independent variables tested was the size of the Comparable array. The trial number remained at 10,000 for consistency. The dependent variable that we measured was the time it took to find the random target it was assigned. Since both search methods had to find a random target, it falls under the category of a control variable. 
+
 
 ## Results
 
