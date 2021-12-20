@@ -1,3 +1,9 @@
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// APCS
+// L03: Get Empirical
+// 2021-12-20
+// time spent- 2 hours
+
 public class SearchDriver {
 
     public static void testtings(int SIZE, int TRIALS){ // as size increases, the linsearch time increases exponentially.
