@@ -1,6 +1,6 @@
 // Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
 // APCS
-// L03: Get Empirical
+// L03: Get Empirical/plan.txt
 // 2021-12-20
 // time spent- 1 hours
 
