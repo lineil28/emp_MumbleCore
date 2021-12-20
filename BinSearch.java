@@ -3,6 +3,12 @@
 // HW48 -- implementing linear and binary search on an ArrayList of Comparables
 // 2021-12-16r
 
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// APCS
+// L03: Get Empirical
+// 2021-12-20
+// time spent- 0.1 hours
+
 /**
    class BinSearch
    Binary search on array of Comparables
