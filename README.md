@@ -16,13 +16,14 @@ In our tests, one of the independent variables tested was the size of the Compar
 
 | SIZE | TRIALS | BinSearch Time for all Trials (milliseconds)  | LinSearch Time for all Trials (milliseconds) |
 |-----------------|:-------------|:---------------:|---------------:|
-| 60        | 10000         | 8      | 13                 |
-| 600       | 10000         | 2      | 47                 |
-| 6000      | 10000         | 1      | 57                 |
-| 60000     | 10000         | 1      | 952                |
-| 600000    | 10000         | 4      | 17768              |
-| 6000000   | 10000         | 3      | 133159             |
-| 60000000  | 10000         | 2      | 141976             |
+| 6         | 10000         | 2      | 1                  |
+| 60        | 10000         | 3      | 6                  |
+| 600       | 10000         | 1      | 8                  |
+| 6000      | 10000         | 1      | 47                 |
+| 60000     | 10000         | 1      | 455                |
+| 600000    | 10000         | 1      | 6222               |
+| 6000000   | 10000         | 1      | 88369              |
+| 60000000  | 10000         | 1      | 1320064            |
 | 210000000 | 10000         | 1      | 2466126            |
 
 The recorded time shows the time needed to search for the target <code>TRIALS</code> amount of times. 

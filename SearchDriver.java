@@ -44,7 +44,7 @@ public class SearchDriver {
         testtings(600000,10000);
         testtings(6000000,10000);
         testtings(60000000,10000);
-        // testtings(210000000,10000);
+        testtings(210000000,10000);
 
         /*
         test = new Comparable[SIZE];
