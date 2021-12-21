@@ -16,7 +16,7 @@ In our tests, one of the independent variables tested was the size of the Compar
 | SIZE | TRIALS | BinSearch Time for all Trials (milliseconds)  | LinSearch Time for all Trials (milliseconds) |
 |-----------------|:-------------|:---------------:|---------------:|
 | 6         | 10000         | 2      | 1                  |
-| 60        | 10000         | 3      | 6                  |
+| 60        | 10000         | 1      | 6                  |
 | 600       | 10000         | 1      | 8                  |
 | 6000      | 10000         | 1      | 47                 |
 | 60000     | 10000         | 1      | 455                |
