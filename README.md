@@ -44,7 +44,7 @@ TARGET: <code>SIZE*Math.random()</code>
 
 The recorded time shows the time needed to search for the target <code>TRIALS</code> amount of times. 
 
-![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/BinSearch%20Time%20and%20LinSearch%20Time.png)
+![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/BinSearch%20Time%20and%20LinSearch%20Time1.png)
 ## Conclusions
 * As we can see from the table and bar graph above, BinSearch clearly takes less time than LinSearch. As the size increases by multiples of 10, the time needed to complete 10,000 trials of the search grows exponentially.
 * Interestingly enough, when the size was very small, 6, LinSearch actually took less time than BinSearch!
