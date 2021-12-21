@@ -27,7 +27,7 @@ In our tests, one of the independent variables tested was the size of the Compar
 
 The recorded time shows the time needed to search for the target <code>TRIALS</code> amount of times. 
 
-![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/BinSearch%20Time%20and%20LinSearch%20Time.png)
+![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/Capture2.PNG)
 
 TARGET: <code>SIZE*Math.random()</code>
 | SIZE | TRIALS | BinSearch Time for all Trials (milliseconds)  | LinSearch Time for all Trials (milliseconds) |
