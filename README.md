@@ -9,8 +9,7 @@ Our plan goes as follows...
 5. Do these tests for numerous sizes.
 6. analyze.
 
-In our tests, one of the independent variables tested was the size of the Comparable array. The trial number remained at 10,000 for consistency. The dependent variable that we measured was the time it took to find the random target it was assigned. Since both search methods had to find a random target, it falls under the category of a control variable.
-
+In our tests, one of the independent variables tested was the size of the Comparable array. The trial number remained at 10,000 for consistency. The dependent variable that we measured was the time it took to find the last element in the array 10,000 times. Using this, we can determine which search method is quicker. 
 
 ## Results
 
@@ -24,12 +23,12 @@ In our tests, one of the independent variables tested was the size of the Compar
 | 600000    | 10000         | 1      | 6222               |
 | 6000000   | 10000         | 1      | 88369              |
 | 60000000  | 10000         | 1      | 1320064            |
-| 210000000 | 10000         | 1      | 2466126            |
+| 210000000 | 10000         | 1      | 5689082            |
 
 The recorded time shows the time needed to search for the target <code>TRIALS</code> amount of times. 
 
 ![alt text](https://github.com/lineil28/emp_MumbleCore/blob/main/BinSearch%20Time%20and%20LinSearch%20Time.png)
 ## Conclusions
 * As we can see from the table and bar graph above, BinSearch clearly takes less time than LinSearch. As the size increases by multiples of 10, the time needed to complete 10,000 trials of the search grows exponentially.
-* An interesting observation is that when the size of the <code>Comparable</code> is less than 60, LinSearch typically takes less time than BinSearch.
-* In conclusion, BinSearch takes less time to run than LinSearch. s
+* Interestingly enough, when the size was very small, 6, LinSearch actually took less time than BinSearch!
+* In conclusion, BinSearch takes less time to run than LinSearch. 
