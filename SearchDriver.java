@@ -37,6 +37,8 @@ public class SearchDriver {
         System.out.println("LinSearch took " + (linSearchTime / binSearchTime) + " times longer.");}
     }
     public static void main(String[] args) {
+        testtings(6,10000);//ran twice since first test is always suspiciously higher than the rest
+        testtings(6,10000);
         testtings(60,10000);
         testtings(600,10000);
         testtings(6000,10000);
