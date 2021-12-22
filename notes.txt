@@ -10,7 +10,7 @@ The target is always going to be size-1, so that it not only serves as a control
 the code run through the "worse case scenario."
 // QCC- How would changing the target affect the time needed to find the target.
 // Gallery Tour (only one person was floating around since one other person's location was unable to be located)
-BinSearch was faster than LinSearch for all three groups visited, but one group did best case scenario
-and it was interesting how LinSearch was faster than BinSearch for every scenario, but it was really short difference.
-For random target and worst case target, BinSearch and LinSearch were close for the shorter arrays but
+BinSearch was faster than LinSearch for all three groups visited, but one group (Team Silly Serpents) did best case
+scenarios and it was interesting how LinSearch was faster than BinSearch for every scenario, but it was really
+small difference. For random target and worst case target, BinSearch and LinSearch were close for the shorter arrays but
 the difference became a lot more apparent when the length of the arrays were increases. LinSearch took a lot longer.
