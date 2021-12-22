@@ -1,8 +1,16 @@
-// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev 
+// Team Green: Abdullah Faruque, Neil Lin, Russell Goychayev
 // APCS
 // L03: Get Empirical
 // 2021-12-19
 // time spent- 2 hours
-// DISCO- currentTimeMillis() allows us to measure the time needed to run a function, very useful. When the length of the Comparable array is 60,
- linearsearch is almost always going to be faster(take less time). As the size increases, the time needed to complete a linSearch increases.
-// QCC- ...
+// DISCO- currentTimeMillis() allows us to measure the time needed to run a function, very useful.
+When the length was 6, there were times in which LinSearch was faster than BinSearch.
+As the size increases, the time needed to complete a LinSearch increases.
+The target is always going to be size-1, so that it not only serves as a control variable, but it also makes
+the code run through the "worse case scenario."
+// QCC- How would changing the target affect the time needed to find the target.
+// Gallery Tour (only one person was floating around since one other person's location was unable to be located)
+BinSearch was faster than LinSearch for all three groups visited, but one group did best case scenario
+and it was interesting how LinSearch was faster than BinSearch for every scenario, but it was really short difference.
+For random target and worst case target, BinSearch and LinSearch were close for the shorter arrays but
+the difference became a lot more apparent when the length of the arrays were increases. LinSearch took a lot longer.

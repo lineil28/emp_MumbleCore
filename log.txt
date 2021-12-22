@@ -14,3 +14,4 @@
 12/20 - A.F edited heading for log.txt
 12/20 - N.L and A.F changed target to always be SIZE - 1 (the worse case scenario)
         R.G still MIA... :l}
+12/21 - N.L added Gallery Tour to notes.txt
